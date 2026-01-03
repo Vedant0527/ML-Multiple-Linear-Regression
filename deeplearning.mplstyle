@@ -1,0 +1,6 @@
+lines.linewidth: 2
+axes.grid: True
+grid.alpha: 0.3
+axes.labelsize: 12
+xtick.labelsize: 10
+ytick.labelsize: 10
